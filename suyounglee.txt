@@ -2,3 +2,8 @@ create initial profile
 취미생활
 1. 러닝
 2. Netflix
+
+
+좋아하는 음식.
+1. 고기
+2. 햄버거
